@@ -450,6 +450,8 @@ a {
   justify-content: flex-start;
   gap: 16px;
 }
+.footer-soc-item {
+}
 .soc-link {
   display: flex;
   width: 40px;
@@ -472,7 +474,8 @@ a {
   background-color: #4d5ae5;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.footer-soc-link:hover {
+.footer-soc-link:hover,
+.footer-soc-link:focus {
   background-color: #31d0aa;
 }
 
