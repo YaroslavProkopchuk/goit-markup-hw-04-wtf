@@ -405,6 +405,9 @@ a {
   display: flex;
   align-items: baseline;
 }
+.footer-logo-ps {
+  margin-right: 120px;
+}
 .footer-logo .logo-part {
   color: #f4f4fd;
 }
@@ -424,9 +427,6 @@ a {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-}
-.footer-social {
-  margin-left: 120px;
 }
 
 .footer-social {
